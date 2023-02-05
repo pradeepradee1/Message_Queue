@@ -1,0 +1,10 @@
+
+
+pip install confluent_kafka
+pip install pandas
+pip install requests
+
+
+# During the execution of final code you might face error of "No Module name jsonschema"
+
+pip install jsonschema
