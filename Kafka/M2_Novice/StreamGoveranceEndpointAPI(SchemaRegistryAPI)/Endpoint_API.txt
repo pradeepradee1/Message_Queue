@@ -1,0 +1,9 @@
+1)	By Clickingthe cluster
+2)	In the Right hand side, enable stream goverence to access Schema registry --> Click enable now button
+3)	Click the Begin configurations(essential)
+4)	Then you will get the Enable Stream Goverance (screen)  --> choose cloud (aws) and region (ohi)(example)
+5)	Then Click Enable Button
+6)	Then you will see the Stream  Goverance Endpoint API (Schema Registry API) in the cluster page
+7)	Once we got the Endpoint API --> We need create or generate credeentials by clicking the credentials add key button
+8)	Click Create Key Button
+9)	Write Description and save the key and secret key
